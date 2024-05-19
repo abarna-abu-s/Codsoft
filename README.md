@@ -6,8 +6,8 @@ Linked video -------------> [https://www.linkedin.com/feed/update/urn:li:activit
 
 Restaurant menu (UI/UX Prototype) ---------> [https://www.figma.com/design/0rkJXmiNwqi13u9Wqg0ORE/restaurant?node-id=0%3A1&t=WcyU0Xr3nd2D6hKt-1] 
 
-
 Linked video -------------> [https://www.linkedin.com/posts/abarna-saravanan05_codsoft-uiux-activity-7197997987606765569-_4q_?utm_source=share&utm_medium=member_desktop]
+
 
 
 
